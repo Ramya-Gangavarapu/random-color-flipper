@@ -1,1 +1,1 @@
-# random-color-picker
+# random-color-flipper
